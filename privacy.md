@@ -1,7 +1,7 @@
 Chính sách quyền riêng tư
-Cập nhật lần cuối: 27 Tháng 8, 2026 GMT + 1
+Cập nhật lần cuối: 4 Tháng 9, 2026 GMT + 7
 
-Ứng dụng Bàn Phím Tiện Dụng tôn trọng và cam kết bảo vệ quyền riêng tư của bạn. Chính sách quyền riêng tư này giải thích cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng của chúng tôi.
+Ứng dụng LeaderKey Command Center (LCC) tôn trọng và cam kết bảo vệ quyền riêng tư của bạn. Chính sách quyền riêng tư này giải thích cách chúng tôi xử lý thông tin khi bạn sử dụng ứng dụng của chúng tôi.
 
 1. Dữ liệu chúng tôi thu thập
 Dữ liệu cá nhân: Ứng dụng không yêu cầu bạn cung cấp thông tin cá nhân (như tên, email, số điện thoại) để sử dụng các tính năng cơ bản.
@@ -22,4 +22,4 @@ Chúng tôi có thể cập nhật Chính sách quyền riêng tư này theo th�
 5. Liên hệ
 Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về Chính sách quyền riêng tư này, vui lòng liên hệ qua:
 
-Email hỗ trợ: [Nhập email của bạn vào đây]
+Email hỗ trợ: treominhbuong@gmail.com
